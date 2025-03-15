@@ -1,5 +1,5 @@
 ---
-title: "grupo"
+title: "Trabalho BIG DATA FOR FINANCE PROJECT"
 ---
 
 This is a Quarto website.
@@ -7,5 +7,12 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+# Bem-vindo ao nosso site!
+
+Este é o site do **Grupo**. Aqui você pode aprender mais sobre nós.
+
+## Seções
+
+- [Sobre nós](about.qmd)
+
 ```
